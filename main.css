@@ -9,6 +9,13 @@
         margin: 0 auto;
     }
 }
+.v-box{
+    display: inline-block;
+    vertical-align: middle;
+    white-space: normal;
+    padding: 0 1em;
+    background: #EEE;
+}
 .slick-slider {
     position: relative;
     display: block;
